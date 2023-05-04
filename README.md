@@ -12,17 +12,7 @@
   ✨ Powered by <a href="https://github.com/sinai-dev/UniverseLib">UniverseLib</a>
 </p>
 
-# Releases  [![](https://img.shields.io/github/downloads/sinai-dev/UnityExplorer/total.svg)](../../releases)
-
-[![](https://img.shields.io/github/release/sinai-dev/UnityExplorer.svg?label=version)](../../releases/latest) [![](https://img.shields.io/github/workflow/status/sinai-dev/UnityExplorer/Build%20UnityExplorer)](https://github.com/sinai-dev/UnityExplorer/actions) [![](https://img.shields.io/github/downloads/sinai-dev/UnityExplorer/latest/total.svg)](../../releases/latest)
-
-⚡ Thunderstore releases: [BepInEx Mono](https://thunderstore.io/package/sinai-dev/UnityExplorer) | [BepInEx IL2CPP](https://gtfo.thunderstore.io/package/sinai-dev/UnityExplorer_IL2CPP) | [MelonLoader IL2CPP](https://boneworks.thunderstore.io/package/sinai-dev/UnityExplorer_IL2CPP_ML)
-
-## Release schedule
-
-Releases will be posted at most once per week, generally on weekends. 
-
-Nightly builds can be found [here](https://github.com/sinai-dev/UnityExplorer/actions).
+# Releases 
 
 ## BepInEx
 
