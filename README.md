@@ -42,7 +42,7 @@ Nightly builds can be found [here](https://github.com/sinai-dev/UnityExplorer/ac
 | Release | IL2CPP | Mono |
 | ------- | ------ | ---- |
 | ML 0.5  | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.IL2CPP.zip) | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.Mono.zip) | 
-| ML 0.6  | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.IL2CPP.net6preview.zip) | ✖️ |
+| ML 0.6  | ✅ [link](https://github.com/GrahamKracker/UnityExplorer/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip) | ✖️ |
 
 1. Unzip the release file into a folder
 2. Copy the DLL inside the `Mods` folder into your MelonLoader `Mods` folder
