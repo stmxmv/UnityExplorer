@@ -12,17 +12,7 @@
   ✨ Powered by <a href="https://github.com/sinai-dev/UniverseLib">UniverseLib</a>
 </p>
 
-# Releases  [![](https://img.shields.io/github/downloads/sinai-dev/UnityExplorer/total.svg)](../../releases)
-
-[![](https://img.shields.io/github/release/sinai-dev/UnityExplorer.svg?label=version)](../../releases/latest) [![](https://img.shields.io/github/workflow/status/sinai-dev/UnityExplorer/Build%20UnityExplorer)](https://github.com/sinai-dev/UnityExplorer/actions) [![](https://img.shields.io/github/downloads/sinai-dev/UnityExplorer/latest/total.svg)](../../releases/latest)
-
-⚡ Thunderstore releases: [BepInEx Mono](https://thunderstore.io/package/sinai-dev/UnityExplorer) | [BepInEx IL2CPP](https://gtfo.thunderstore.io/package/sinai-dev/UnityExplorer_IL2CPP) | [MelonLoader IL2CPP](https://boneworks.thunderstore.io/package/sinai-dev/UnityExplorer_IL2CPP_ML)
-
-## Release schedule
-
-Releases will be posted at most once per week, generally on weekends. 
-
-Nightly builds can be found [here](https://github.com/sinai-dev/UnityExplorer/actions).
+# Releases 
 
 ## BepInEx
 
@@ -42,7 +32,7 @@ Nightly builds can be found [here](https://github.com/sinai-dev/UnityExplorer/ac
 | Release | IL2CPP | Mono |
 | ------- | ------ | ---- |
 | ML 0.5  | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.IL2CPP.zip) | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.Mono.zip) | 
-| ML 0.6  | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.IL2CPP.net6preview.zip) | ✖️ |
+| ML 0.6  | ✅ [link](https://github.com/GrahamKracker/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip) | ✖️ |
 
 1. Unzip the release file into a folder
 2. Copy the DLL inside the `Mods` folder into your MelonLoader `Mods` folder
